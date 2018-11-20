@@ -8,7 +8,7 @@ Dashboards with clickable areas, like text, KPIs, or any other content! Also use
 ## Description
 
 The package contains 3 widgets: a context, a non-context, and an offline version. Each can do the following on click:
- - Run a nanolow
+ - Run a nanoflow
  - Open a specified URL either in the same tab or a new one
  - Open a page in content or a pop-up
  and the online widgets can also:
